@@ -1,0 +1,9 @@
+pip install opencv-python
+pip install numpy
+pip install keras
+pip install Pillow
+pip install h5py
+pip install imutils
+pip install tensorflow
+pip install scikit-learn
+pip install opencv-contrib-python
